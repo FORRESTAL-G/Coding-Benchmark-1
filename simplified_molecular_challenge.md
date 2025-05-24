@@ -5,8 +5,8 @@
 Create a web-based 3D molecular visualization system that can parse, validate, and display molecular structures with basic interactive features. This challenge focuses on clean architecture, accurate data representation, and engaging visualization rather than complex physics simulation.
 
 **Maximum Score**: **100 points**  
-**Estimated Time** (it would take a huamn to implement: **1-2 weeks**
-**Target**: **Browser-based implementation** - for better fast and easy analysis of the results 
+**Estimated Time** for a huamn to succeed: **1-2 weeks**
+**Target**: **Browser-based implementation** 
 
 ## Required Components
 

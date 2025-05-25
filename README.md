@@ -1,4 +1,7 @@
 **Benchmark-for-AI-coding-1**
+
+![3D Molecular Visualization Challenge](./e3.png)
+
 # 3D Molecular Visualization Challenge
 
 A comprehensive coding benchmark for AI assistants and coding agents.
